@@ -1,2 +1,2 @@
 # GEMI_CPP
-1er Année Cycle d'ingénieur en Génie Mécanique et Management Industrielle POO C++
+1er Année Cycle d'ingénieur en Génie Electrique et Management Industrielle POO C++
