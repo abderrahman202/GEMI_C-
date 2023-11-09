@@ -25,7 +25,8 @@ public:
         somme_y=y1+y2;
         somme_z=z1+z2;
     }
-    void GetValues(){
+    void GetSomme_x(){
+
         
     }
     void display_somme(){
